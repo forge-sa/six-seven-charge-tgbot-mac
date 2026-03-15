@@ -22,6 +22,9 @@ cd six-seven-charge-tgbot
 - Open 67_Charge_Bot.sh and put your API into TOKEN
 - Put YOUR chat id into CHAT_ID
 - 🤖Start YOUR bot 🤖
+```
+./67_charge_bot.sh
+```
 - 🔋And wait till your MacBook battery will be at 67 per cent 🔋
 # FAQ
 > Okay, what about Linux? 🐧
